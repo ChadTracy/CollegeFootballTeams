@@ -11,9 +11,9 @@
     tools:context="com.a490.chad.collegefootballteams.MainActivityFragment"
     tools:showIn="@layout/activity_main">
 
-    <TextView
+    <ListView
+        android:id="@+id/listViewTeams"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:layout_height="wrap_content" />
 
 </RelativeLayout>
