@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794430791555",
+    "firebase_url": "https://collegefootballteams-f1e4f.firebaseio.com",
+    "project_id": "collegefootballteams-f1e4f",
+    "storage_bucket": "collegefootballteams-f1e4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794430791555:android:1598ab5bb7f0493d",
+        "android_client_info": {
+          "package_name": "com.a490.chad.collegefootballteams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794430791555-llak062k926fni9mjbduchbeq6a58sac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a490.chad.collegefootballteams",
+            "certificate_hash": "BA91B37DAAD040756AFDB789C2E10F5CC4118471"
+          }
+        },
+        {
+          "client_id": "794430791555-cmndqeu83vvc2alcret8afqq30ip34iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgO5a7HTzaghyvU1aM7JMcyng8EMktH0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794430791555-cmndqeu83vvc2alcret8afqq30ip34iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
